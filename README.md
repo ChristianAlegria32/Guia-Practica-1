@@ -10,9 +10,8 @@ La aplicación web permite a los usuarios ingresar su nombre y edad a través de
 
 El proyecto implementa las siguientes funcionalidades:
 
-- Campo de entrada para el nombre que solo acepta letras (incluyendo caracteres acentuados)
+- Campo de entrada para el nombre
 - Campo numérico para la edad
-- Validación en tiempo real del campo nombre
 - Interfaz responsiva con diseño moderno
 - Mensajes de retroalimentación con códigos de color:
   - Verde para mayores de edad
